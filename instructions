@@ -299,3 +299,4 @@ const curry = fn =>
 * Find the number of arguments (or `arity`) of a function using `.length`
 
 * Use `.bind` to partially apply arguments to a function
+
